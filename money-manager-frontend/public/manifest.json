@@ -1,0 +1,23 @@
+{
+  "short_name": "Money Manager",
+  "name": "Money Manager",
+  "description": "Track income, expenses, and manage your money with ease.",
+  "icons": [
+    {
+      "src": "/Money%20Manager.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/Money%20Manager.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#2563eb",
+  "background_color": "#ffffff"
+}

@@ -1,0 +1,30 @@
+# IDE and OS Files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+*.iml
+.classpath
+.project
+.settings/
+.cursor/
+
+# Logs
+*.log
+
+# Build output (if any in root)
+dist/
+build/
+target/
+out/
+
+# Dependency directories (if any in root)
+node_modules/
+
+# Local configuration
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
