@@ -10,12 +10,12 @@ React web app for the Money Manager. It lets users add and edit income and expen
   - Period dropdown: **This Week**, **This Month**, **This Year** (weekly/monthly/yearly income and expenditure).
   - Summary cards: Total Income, Total Expense, Total Balance (₹).
   - Expense by category (pie chart) and Income vs Expense (bar chart).
+  - Category summary.
   - Recent transactions (last few entries).
 
 - **Transactions Page**
   - Full transaction history with pagination.
   - Filters: **From Date**, **To Date**, **Category**, **Division** (Office / Personal) with Apply and Reset.
-  - Category summary table (expense by category).
 
 - **Add / Edit Transaction (Modal)**
   - **Add** button in the header opens a modal with two tabs: **Income** and **Expense**.
